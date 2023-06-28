@@ -1,0 +1,41 @@
+# Ignore Visual Studio files
+.vs/
+/bin/
+/obj/
+/.vscode/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.bak
+*.cache
+*.sln.docstates
+
+# Ignore build output
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]bj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Ignore Visual Studio generated files
+*.generated.cs
+*_wpftmp.cs
+*.g.i.cs
+*.g.cs
+
+# Ignore publish profiles
+*.pubxml
+*.publishproj
